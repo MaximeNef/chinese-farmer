@@ -3,6 +3,8 @@
 ## **Instructions**
 
 [https://github.com/becodeorg/bxl-hopper-1-25/tree/master/The%20Field/3.HTML%2BCSS/0.progressive_enhancement](https://github.com/becodeorg/bxl-hopper-1-25/tree/master/The%20Field/3.HTML%2BCSS/0.progressive_enhancement)
+> the instructions wasn't clear
+
 
 ## **How to run**
 
@@ -25,4 +27,4 @@ no , it isn't !
 
 ![Chinese-farmer](sccreen.png)
 
-> the instructions wasn't clear
+
